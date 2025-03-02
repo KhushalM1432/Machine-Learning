@@ -1,2 +1,2 @@
-# ML_Data_Science
+# Machine Learning
 Data_Science
