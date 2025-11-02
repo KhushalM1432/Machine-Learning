@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine_Learning_Project
 # Data_Science
 ### 🧩 Machine_Learning
 1. Implemented **Simple and Multiple Linear Regression** models to analyze relationships between variables and predict continuous outcomes with precision.
